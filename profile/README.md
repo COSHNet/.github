@@ -1,12 +1,11 @@
-## Hi there 👋
+### 椰灰社🥥 (COSH.WORK)
 
-<!--
+<img alt="聚是一把火，散是满天星" width="100%" src="https://cosh.work/saying.png">
 
-**Here are some ideas to get you started:**
+官方网站：[cosh.work](https://cosh.work)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+官方 Github 组织：[Github Org](https://github.com/COSHNet)
+
+官方 Support 邮箱：[support@cosh.work](mailto:support@cosh.work)
+
+***Tips: 作为刚成立的组织，希望大家更多的支持与包容，同时希望大家踊跃加入~***
