@@ -1,6 +1,4 @@
-### 椰灰社🥥 (COSH.WORK)
-
-<img alt="聚是一把火，散是满天星" width="100%" src="https://cosh.work/saying.png">
+<img alt="聚是一把火，散是满天星" width="100%" src="https://static.cosh.work/d257e2b1-d82f-45a5-b42d-df8a6461e926.9rjlz8by6s.webp">
 
 官方网站：[cosh.work](https://cosh.work)
 
