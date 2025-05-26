@@ -5,5 +5,3 @@
 官方 Github 组织：[Github Org](https://github.com/COSHNet)
 
 官方 Support 邮箱：[support@cosh.work](mailto:support@cosh.work)
-
-***Tips: 作为刚成立的组织，希望大家更多的支持与包容，同时希望大家踊跃加入~***
